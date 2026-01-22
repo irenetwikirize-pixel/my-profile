@@ -1,0 +1,90 @@
+.king{
+    height: 100px;
+    width: 60%;
+    background-color: lavender;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.queen{
+    height: 300px;
+    width: 63%;
+    background-color:white;
+    margin: auto;
+    margin-bottom: 40px;
+
+}
+.princess{
+    height: 150px;
+    width: 60%;
+    background-color:lavender;
+   margin: auto;
+   margin-bottom: 20px;
+   padding-top: 20px;
+   padding-left: 20px;
+}
+.prince{
+    height: 100px;
+    width: 60%;
+    background-color:red;
+    margin: auto;
+    
+}
+.one{
+    background-color: peachpuff;
+    height: 60px;
+    margin-top: 40px;
+}
+.two{
+    background-color: peachpuff;
+    height: 60px;
+}
+.three{
+    background-color: peachpuff;
+    height: 60px;
+}
+.love{
+    background-color: lavender;
+    height: 320px ;
+    width: 60%;
+    float: left;
+    margin-left: 20px;
+    margin: auto;
+    padding-left: 20px;
+}
+.blue{
+    background-color: white;
+    height: 200px;
+    width: 30%;
+    float: right;
+    margin-right:20px ;
+
+}
+.a{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+
+}
+.b{
+    background-color:lavender;
+    height: 80px;
+    width: 100%;
+}
+.god{
+    background-color:lavender;
+    height: 100px;
+    width: 60%;
+    margin: auto;
+    padding-left: 30px;
+    
+}
+.Z{
+    width: 180px;
+    height: 190px;
+}
+.j{
+    padding-left: 190px;
+    padding-top: 50px;
+}

@@ -1,0 +1,64 @@
+.river{
+    background-color: indianred;
+    height: 70px;
+    width: 600px;
+    padding-left: 500px;
+    padding-top: 30px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.lake{
+    background-color: white;
+    height: 300px;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 90px;
+}
+.water{
+    background-color: burlywood;
+    height: 200px;
+    width: 1100px;
+    margin-bottom: 20px;
+}
+.a{
+    background-color: cadetblue;
+    height: 30px;
+}
+.b{
+    background-color: cadetblue;
+    height: 30px;
+}
+.c{
+    background-color: cadetblue;
+    height: 30px;
+}
+.f{
+    background-color: blue;
+    height: 400px;
+    width: 250px;
+    padding-left: 50px;
+    float: left;
+    
+    
+}
+.e{
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    float: right;
+    padding-right: 40px;
+}
+.ocean{
+    background-color: lavenderblush;
+    height: 200px;
+    width: 1100px;
+}
+.t{
+    background-color: tomato;
+    height: 100px;
+    width: 1000px;
+}
+.w{
+    height: 400px;
+    width: 289px;
+}
